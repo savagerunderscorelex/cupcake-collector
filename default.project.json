@@ -67,6 +67,11 @@
       "$properties": {
         "RespectFilteringEnabled": true
       }
-    }
+    },
+    "$className": "Part",
+      "$properties": {
+        "Color": [256, 34, 56],
+        "Size": [2, 2, 2]
+      }
   }
 }
